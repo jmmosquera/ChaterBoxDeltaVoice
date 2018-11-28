@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109752644968",
+    "firebase_url": "https://chaterboxomegaversion.firebaseio.com",
+    "project_id": "chaterboxomegaversion",
+    "storage_bucket": "chaterboxomegaversion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109752644968:android:b7a4f55a24e5b302",
+        "android_client_info": {
+          "package_name": "org.ieszaidinvergeles.dam.chaterbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109752644968-u6362uqk6bcgfqpnktueu9ue4hnpnsp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ieszaidinvergeles.dam.chaterbot",
+            "certificate_hash": "f1a455465cf99b434cedf6102435ceef660be5c9"
+          }
+        },
+        {
+          "client_id": "109752644968-ol8lmfp0afqbk7h0cdk3eonk347k471k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTsgXywl_zaJdU-o4-tgZ0rLB5GlvpOUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109752644968-ol8lmfp0afqbk7h0cdk3eonk347k471k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
